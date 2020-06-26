@@ -6,6 +6,7 @@
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
+	"forwardPorts": [5000],
 	"extensions": [
 		"ms-dotnettools.csharp"
 	],
